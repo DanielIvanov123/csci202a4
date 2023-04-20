@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    background-color: #eeeeee;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 56px;
+    font-weight: normal;
+    margin-top: 150px;
+}
+
+.search-box {
+    border: 1px solid #000;
+    font-size: 16px;
+    margin: 16px 0;
+    padding: 8px 16px;
+    width: 480px;
+}
+
+.search-button {
+    background-color: #eee;
+    border: 1px solid #ccc;
+    color: #3c4043;
+    font-size: 14px;
+    margin: 4px;
+    padding: 8px 16px;
+}
+
+.search-button:hover {
+    border-color: #999;
+    cursor: pointer;
+}
